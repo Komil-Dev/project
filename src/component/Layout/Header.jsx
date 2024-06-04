@@ -172,7 +172,7 @@ export default function SearchAppBar() {
                   borderRadius: "15px",
                   boxShadow: "0px 0px 10px rgba(0, 0, 0, 0.1)",
                   width: "25%",
-                  height: "60vh",
+                  height: "50vh",
                   padding: "2%", // Add padding for better spacing
                   textAlign: "center",
                   paddingTop: "5%",
